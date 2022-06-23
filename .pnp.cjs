@@ -53,7 +53,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@ngx-translate/core", "virtual:cbcab8e61876efe8f4720773425f32f4720f93f233bb729d6a949ab68c9edce036457d6305dc199c204310efc46d7bd6d4afe366ecc9c7cd6b05d2f1b013ffec#npm:13.0.0"],\
             ["@ngx-translate/http-loader", "virtual:cbcab8e61876efe8f4720773425f32f4720f93f233bb729d6a949ab68c9edce036457d6305dc199c204310efc46d7bd6d4afe366ecc9c7cd6b05d2f1b013ffec#npm:6.0.0"],\
             ["@types/faker", "npm:5.5.9"],\
-            ["@types/jasmine", "npm:3.6.11"],\
+            ["@types/jasmine", "npm:3.10.6"],\
             ["@types/jasminewd2", "npm:2.0.10"],\
             ["@types/lodash", "npm:4.14.182"],\
             ["@types/node", "npm:13.13.52"],\
@@ -3805,10 +3805,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/jasmine", [\
-        ["npm:3.6.11", {\
-          "packageLocation": "./.yarn/cache/@types-jasmine-npm-3.6.11-2ca45e6cb7-ccb4b749dc.zip/node_modules/@types/jasmine/",\
+        ["npm:3.10.6", {\
+          "packageLocation": "./.yarn/cache/@types-jasmine-npm-3.10.6-bc64f97df3-dff2c26a9e.zip/node_modules/@types/jasmine/",\
           "packageDependencies": [\
-            ["@types/jasmine", "npm:3.6.11"]\
+            ["@types/jasmine", "npm:3.10.6"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -14000,7 +14000,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@ngx-translate/core", "virtual:cbcab8e61876efe8f4720773425f32f4720f93f233bb729d6a949ab68c9edce036457d6305dc199c204310efc46d7bd6d4afe366ecc9c7cd6b05d2f1b013ffec#npm:13.0.0"],\
             ["@ngx-translate/http-loader", "virtual:cbcab8e61876efe8f4720773425f32f4720f93f233bb729d6a949ab68c9edce036457d6305dc199c204310efc46d7bd6d4afe366ecc9c7cd6b05d2f1b013ffec#npm:6.0.0"],\
             ["@types/faker", "npm:5.5.9"],\
-            ["@types/jasmine", "npm:3.6.11"],\
+            ["@types/jasmine", "npm:3.10.6"],\
             ["@types/jasminewd2", "npm:2.0.10"],\
             ["@types/lodash", "npm:4.14.182"],\
             ["@types/node", "npm:13.13.52"],\
