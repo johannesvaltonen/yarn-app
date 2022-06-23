@@ -76,7 +76,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["font-awesome", "npm:4.7.0"],\
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"],\
             ["immutable", "npm:4.1.0"],\
-            ["jasmine-core", "npm:3.8.0"],\
+            ["jasmine-core", "npm:3.99.1"],\
             ["jasmine-spec-reporter", "npm:5.0.2"],\
             ["jquery", "npm:3.6.0"],\
             ["karma", "npm:6.3.20"],\
@@ -8839,13 +8839,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["jasmine-core", [\
-        ["npm:3.8.0", {\
-          "packageLocation": "./.yarn/cache/jasmine-core-npm-3.8.0-37b27ec64b-6490373bd9.zip/node_modules/jasmine-core/",\
-          "packageDependencies": [\
-            ["jasmine-core", "npm:3.8.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:3.99.1", {\
           "packageLocation": "./.yarn/cache/jasmine-core-npm-3.99.1-07f52d92cc-4e4a89739d.zip/node_modules/jasmine-core/",\
           "packageDependencies": [\
@@ -9123,7 +9116,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jasmine-core", null],\
             ["@types/karma", null],\
             ["@types/karma-jasmine", null],\
-            ["jasmine-core", "npm:3.8.0"],\
+            ["jasmine-core", "npm:3.99.1"],\
             ["karma", "npm:6.3.20"],\
             ["karma-jasmine", "virtual:cbcab8e61876efe8f4720773425f32f4720f93f233bb729d6a949ab68c9edce036457d6305dc199c204310efc46d7bd6d4afe366ecc9c7cd6b05d2f1b013ffec#npm:4.0.2"]\
           ],\
@@ -14023,7 +14016,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["font-awesome", "npm:4.7.0"],\
             ["fsevents", "patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"],\
             ["immutable", "npm:4.1.0"],\
-            ["jasmine-core", "npm:3.8.0"],\
+            ["jasmine-core", "npm:3.99.1"],\
             ["jasmine-spec-reporter", "npm:5.0.2"],\
             ["jquery", "npm:3.6.0"],\
             ["karma", "npm:6.3.20"],\
