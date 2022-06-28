@@ -286,15 +286,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/core@npm:13.3.11":
-  version: 13.3.11
-  resolution: "@angular/core@npm:13.3.11"
+"@angular/core@npm:14.0.3":
+  version: 14.0.3
+  resolution: "@angular/core@npm:14.0.3"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
     rxjs: ^6.5.3 || ^7.4.0
     zone.js: ~0.11.4
-  checksum: 655f4ee96de054d55b11b83706bfafa4dca458a2a9656a16ebbc78fa63921f454fc50999f13c53c1acfce1d98e15ed481655a5fd6700a6dbc35f787efd9e64c2
+  checksum: 96f072caa5a9d4c2328ad853094c6e22ef4e0b8bef9eb9eb3e05220e1eaea0754d873d63bdd65935b28e14e75b15a9aff15185d9e56a7a69ba1341c652f5f54e
   languageName: node
   linkType: hard
 
@@ -10527,7 +10527,7 @@ __metadata:
     "@angular/common": 13.3.11
     "@angular/compiler": 13.3.11
     "@angular/compiler-cli": 13.3.11
-    "@angular/core": 13.3.11
+    "@angular/core": 14.0.3
     "@angular/flex-layout": 13.0.0-beta.38
     "@angular/forms": 13.3.11
     "@angular/material": 13.3.9
