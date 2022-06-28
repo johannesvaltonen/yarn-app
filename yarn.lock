@@ -344,17 +344,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/platform-browser-dynamic@npm:13.3.11":
-  version: 13.3.11
-  resolution: "@angular/platform-browser-dynamic@npm:13.3.11"
+"@angular/platform-browser-dynamic@npm:14.0.3":
+  version: 14.0.3
+  resolution: "@angular/platform-browser-dynamic@npm:14.0.3"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
-    "@angular/common": 13.3.11
-    "@angular/compiler": 13.3.11
-    "@angular/core": 13.3.11
-    "@angular/platform-browser": 13.3.11
-  checksum: 3430ed5d86d02b973606248124140d156c9a11b64ea60e69233e9d81e77ca590b59b80d4150746c3a9793f4ebb39ed41e62d48372e80ad66203e3d455aecae04
+    "@angular/common": 14.0.3
+    "@angular/compiler": 14.0.3
+    "@angular/core": 14.0.3
+    "@angular/platform-browser": 14.0.3
+  checksum: 7f7d20db50f7488ca2958663c77fe88b240d360450609509d9e1bff2a37739ba909608896749e006d5f3b08da3ab81d82d63cfc2385df978493674ffc894d231
   languageName: node
   linkType: hard
 
@@ -10532,7 +10532,7 @@ __metadata:
     "@angular/forms": 13.3.11
     "@angular/material": 13.3.9
     "@angular/platform-browser": 13.3.11
-    "@angular/platform-browser-dynamic": 13.3.11
+    "@angular/platform-browser-dynamic": 14.0.3
     "@angular/platform-server": 13.3.11
     "@angular/router": 13.3.11
     "@circlon/angular-tree-component": 11.0.4
