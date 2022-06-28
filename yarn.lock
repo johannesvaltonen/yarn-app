@@ -252,9 +252,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/compiler-cli@npm:13.3.11":
-  version: 13.3.11
-  resolution: "@angular/compiler-cli@npm:13.3.11"
+"@angular/compiler-cli@npm:14.0.3":
+  version: 14.0.3
+  resolution: "@angular/compiler-cli@npm:14.0.3"
   dependencies:
     "@babel/core": ^7.17.2
     chokidar: ^3.0.0
@@ -267,13 +267,13 @@ __metadata:
     tslib: ^2.3.0
     yargs: ^17.2.1
   peerDependencies:
-    "@angular/compiler": 13.3.11
-    typescript: ">=4.4.2 <4.7"
+    "@angular/compiler": 14.0.3
+    typescript: ">=4.6.2 <4.8"
   bin:
     ng-xi18n: bundles/src/bin/ng_xi18n.js
     ngc: bundles/src/bin/ngc.js
     ngcc: bundles/ngcc/main-ngcc.js
-  checksum: e63574bbb043539da324c5b3d9d683dcd46e2361ab5bf14c0d27353c72710cf9846bfcdfdd6dc94ab61aa19df93f0691ac173e94d8e7d9c23d5e107223cffe22
+  checksum: 64bc3c0bae7c9f99a037d2cd13da3f9cdfe1999cf692e93d14c8afebfa779a75d3ec23221b85c4a1019c30c9986bff3e1c9ec00f005fbcd15ea5badf71fcd2eb
   languageName: node
   linkType: hard
 
@@ -10526,7 +10526,7 @@ __metadata:
     "@angular/cli": 13.3.8
     "@angular/common": 13.3.11
     "@angular/compiler": 13.3.11
-    "@angular/compiler-cli": 13.3.11
+    "@angular/compiler-cli": 14.0.3
     "@angular/core": 13.3.11
     "@angular/flex-layout": 13.0.0-beta.38
     "@angular/forms": 13.3.11

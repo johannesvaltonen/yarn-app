@@ -42,7 +42,7 @@
     "@angular-builders/custom-webpack": "13.1.0",
     "@angular-devkit/build-angular": "13.3.8",
     "@angular/cli": "13.3.8",
-    "@angular/compiler-cli": "13.3.11",
+    "@angular/compiler-cli": "14.0.3",
     "@types/faker": "5.5.9",
     "@types/jasmine": "3.6.11",
     "@types/jasminewd2": "2.0.10",
