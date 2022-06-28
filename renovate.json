@@ -1,5 +1,18 @@
 {
-  "extends": [
-    "config:base"
-  ]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "automerge": true,
+  "automergeType": "branch",
+  "dependencyDashboard": true,
+  "commitMessagePrefix": "fix(renovate): ",
+  "labels": [
+    "renovate"
+  ],
+  "assignees": [],
+  "separateMajorMinor": false,
+  "fetchReleaseNotes": false,
+  "enabledManagers": ["nuget", "npm"],
+  "rollbackPrs": true,
+  "rollback": {
+    "ignoreUnstable": true
+  }
 }
