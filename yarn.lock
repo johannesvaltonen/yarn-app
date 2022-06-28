@@ -1928,16 +1928,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ngx-translate/http-loader@npm:6.0.0":
-  version: 6.0.0
-  resolution: "@ngx-translate/http-loader@npm:6.0.0"
+"@ngx-translate/http-loader@npm:7.0.0":
+  version: 7.0.0
+  resolution: "@ngx-translate/http-loader@npm:7.0.0"
   dependencies:
-    tslib: ^2.0.0
+    tslib: ^2.3.0
   peerDependencies:
-    "@angular/common": ">=10.0.0"
-    "@ngx-translate/core": ">=13.0.0"
-    rxjs: ">=6.5.3"
-  checksum: fdf516bce93483663091937ef377d1b54bfbb193b1208084c95959dd415bf677a2434d961ec85ef5e5c91cecaf2d62b10ae093ad871d7296ee972154f661a15a
+    "@angular/common": ">=13.0.0"
+    "@ngx-translate/core": ">=14.0.0"
+    rxjs: ^6.5.3 || ^7.4.0
+  checksum: ac20c888c7955656b729029a521d85b0f9964ab2acfd4c42faa37fde3aa56ea56a9ea0424ddf102cac2f33cec2d411b6359f062c068ec3c3e1163b7a465c1c4b
   languageName: node
   linkType: hard
 
@@ -10537,7 +10537,7 @@ __metadata:
     "@angular/router": 13.3.11
     "@circlon/angular-tree-component": 11.0.4
     "@ngx-translate/core": 13.0.0
-    "@ngx-translate/http-loader": 6.0.0
+    "@ngx-translate/http-loader": 7.0.0
     "@types/faker": 5.5.9
     "@types/jasmine": 3.6.11
     "@types/jasminewd2": 2.0.10
