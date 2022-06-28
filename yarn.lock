@@ -8917,7 +8917,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rxjs@npm:^7.2.0":
+"rxjs@npm:7.5.5, rxjs@npm:^7.2.0":
   version: 7.5.5
   resolution: "rxjs@npm:7.5.5"
   dependencies:
@@ -10579,7 +10579,7 @@ __metadata:
     ng2-file-upload: 1.4.0
     normalize.css: 8.0.1
     reflect-metadata: 0.1.13
-    rxjs: 6.6.7
+    rxjs: 7.5.5
     sass: 1.53.0
     ts-md5: 1.2.11
     tslib: 2.4.0
