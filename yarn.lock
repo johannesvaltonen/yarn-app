@@ -392,17 +392,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/router@npm:13.3.11":
-  version: 13.3.11
-  resolution: "@angular/router@npm:13.3.11"
+"@angular/router@npm:14.0.3":
+  version: 14.0.3
+  resolution: "@angular/router@npm:14.0.3"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
-    "@angular/common": 13.3.11
-    "@angular/core": 13.3.11
-    "@angular/platform-browser": 13.3.11
+    "@angular/common": 14.0.3
+    "@angular/core": 14.0.3
+    "@angular/platform-browser": 14.0.3
     rxjs: ^6.5.3 || ^7.4.0
-  checksum: 0ca50b3b59d13c383519a8840cc7f9f71f4083ba27ee8e396b6db5cb80ff584a13e25706987e75020a137d0d298372a7c480b30dfb011a3708e1a233d63a8d31
+  checksum: d8f7b90186a62ef39d6a0a1e77f96149da602155e3a7c37dbea374fe39f1ed5020d23d1f8976007bc9b43b9e24608abc3b509d3eb590565d8585ea8afbb0d22f
   languageName: node
   linkType: hard
 
@@ -10534,7 +10534,7 @@ __metadata:
     "@angular/platform-browser": 13.3.11
     "@angular/platform-browser-dynamic": 13.3.11
     "@angular/platform-server": 13.3.11
-    "@angular/router": 13.3.11
+    "@angular/router": 14.0.3
     "@circlon/angular-tree-component": 11.0.4
     "@ngx-translate/core": 13.0.0
     "@ngx-translate/http-loader": 6.0.0
