@@ -2293,17 +2293,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:>=10.0.0":
+"@types/node@npm:*, @types/node@npm:18.0.0, @types/node@npm:>=10.0.0":
   version: 18.0.0
   resolution: "@types/node@npm:18.0.0"
   checksum: aab2b325727a2599f6d25ebe0dedf58c40fb66a51ce4ca9c0226ceb70fcda2d3afccdca29db5942eb48b158ee8585a274a1e3750c718bbd5399d7f41d62dfdcc
-  languageName: node
-  linkType: hard
-
-"@types/node@npm:13.13.52":
-  version: 13.13.52
-  resolution: "@types/node@npm:13.13.52"
-  checksum: 8f1afff497ebeba209e2dc340d823284e087a47632afe99a7daa30eaff80893e520f222ad400cd1f2d3b8288e93cf3eaded52a8e64eaefb8aacfe6c35de98f42
   languageName: node
   linkType: hard
 
@@ -10542,7 +10535,7 @@ __metadata:
     "@types/jasmine": 3.6.11
     "@types/jasminewd2": 2.0.10
     "@types/lodash": 4.14.182
-    "@types/node": 13.13.52
+    "@types/node": 18.0.0
     "@typescript-eslint/eslint-plugin": 5.29.0
     "@typescript-eslint/parser": 5.29.0
     angular-oauth2-oidc: 10.0.3
