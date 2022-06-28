@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "13.1.0",
-    "@angular-devkit/build-angular": "13.3.8",
+    "@angular-devkit/build-angular": "14.0.3",
     "@angular/cli": "13.3.8",
     "@angular/compiler-cli": "13.3.11",
     "@types/faker": "5.5.9",
