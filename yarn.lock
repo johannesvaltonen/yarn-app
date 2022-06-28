@@ -3756,10 +3756,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:3.23.2":
-  version: 3.23.2
-  resolution: "core-js@npm:3.23.2"
-  checksum: dc388ec8565610eff11d8ea81c390b002c8aeaaff20224b132737680c4ed13d1c2feddd4a4e803e9fa60cef633c66847e1cbc51d387c2c2cd8928927267af3a3
+"core-js@npm:3.23.3":
+  version: 3.23.3
+  resolution: "core-js@npm:3.23.3"
+  checksum: f517546388e468bd3155afbf06f38f8fe0448134fe086c4ed9c4d371d52db71e80585073b59362948777e01f2377ef7064925e1a3d9312a1c56da47eadfaca9a
   languageName: node
   linkType: hard
 
@@ -10547,7 +10547,7 @@ __metadata:
     "@typescript-eslint/parser": 5.29.0
     angular-oauth2-oidc: 10.0.3
     angular-oauth2-oidc-jwks: 9.0.0
-    core-js: 3.23.2
+    core-js: 3.23.3
     es6-promise: 4.2.8
     es6-shim: 0.35.6
     eslint: 8.18.0

@@ -20,7 +20,7 @@
     "@ngx-translate/http-loader": "6.0.0",
     "angular-oauth2-oidc": "10.0.3",
     "angular-oauth2-oidc-jwks": "9.0.0",
-    "core-js": "3.23.2",
+    "core-js": "3.23.3",
     "es6-promise": "4.2.8",
     "es6-shim": "0.35.6",
     "event-source-polyfill": "1.0.26",
