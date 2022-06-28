@@ -374,21 +374,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/platform-server@npm:13.3.11":
-  version: 13.3.11
-  resolution: "@angular/platform-server@npm:13.3.11"
+"@angular/platform-server@npm:14.0.3":
+  version: 14.0.3
+  resolution: "@angular/platform-server@npm:14.0.3"
   dependencies:
     domino: ^2.1.2
     tslib: ^2.3.0
     xhr2: ^0.2.0
   peerDependencies:
-    "@angular/animations": 13.3.11
-    "@angular/common": 13.3.11
-    "@angular/compiler": 13.3.11
-    "@angular/core": 13.3.11
-    "@angular/platform-browser": 13.3.11
-    "@angular/platform-browser-dynamic": 13.3.11
-  checksum: 91a16b9b8b3d008b9c13ec4e19276e9133295d24a5550a1408772f65ce75ff23ed997484ca0ec544818fcb607e70335acbaf9e19d878bebbb5f8883f4cba02f6
+    "@angular/animations": 14.0.3
+    "@angular/common": 14.0.3
+    "@angular/compiler": 14.0.3
+    "@angular/core": 14.0.3
+    "@angular/platform-browser": 14.0.3
+    "@angular/platform-browser-dynamic": 14.0.3
+  checksum: 997ef52e88c1add6dbb590e87d9c36d8b0968d7d84ffa2a3817b8eb154254d83ef88df33df5c92d716cacd23dc6f9210ad478c10ededf65fb2a27c5d2da735b6
   languageName: node
   linkType: hard
 
@@ -10533,7 +10533,7 @@ __metadata:
     "@angular/material": 13.3.9
     "@angular/platform-browser": 13.3.11
     "@angular/platform-browser-dynamic": 13.3.11
-    "@angular/platform-server": 13.3.11
+    "@angular/platform-server": 14.0.3
     "@angular/router": 13.3.11
     "@circlon/angular-tree-component": 11.0.4
     "@ngx-translate/core": 13.0.0
