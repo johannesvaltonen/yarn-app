@@ -19,7 +19,7 @@
     "@ngx-translate/core": "13.0.0",
     "@ngx-translate/http-loader": "6.0.0",
     "angular-oauth2-oidc": "10.0.3",
-    "angular-oauth2-oidc-jwks": "9.0.0",
+    "angular-oauth2-oidc-jwks": "13.0.1",
     "core-js": "3.23.2",
     "es6-promise": "4.2.8",
     "es6-shim": "0.35.6",
